@@ -13,3 +13,9 @@
 .post {
   margin: 5%;
 }
+
+.vertical {
+    display: block;
+    max-height: 500px;
+    margin: auto;
+}
