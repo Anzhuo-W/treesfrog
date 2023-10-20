@@ -5,7 +5,7 @@ author: Anzhuo Wang
 tags: post
 ---
 
-The day before the NHL season began, I interviewed Taylor Haase, Pittsburgh Penguins beat writer for DK Pittsburgh Sports. We chatted about her experience as a hockey reporter, what it's like to be in the sports journalism business, and the season ahead. Listen to a few snippets from our conversation in the podcast below. 
+The day before the NHL season began, I interviewed Taylor Haase, Pittsburgh Penguins beat writer for DK Pittsburgh Sports. We talked about her experience as a hockey reporter, what it's like to be in the sports journalism business, and the season ahead. Listen to a few snippets from our conversation in the podcast below. 
 
 <audio controls style="width:100%">
     <source src="/posts/media/taylor-interview.mp3" type="audio/mpeg">
@@ -45,4 +45,4 @@ Taylor Haase is the Pittsburgh Penguins beat writer for DK Pittsburgh Sports, co
 
 </details>
 
-*Music: Cottages - Magic Scout, Kevin MacLeod*
+*Music: Magic Scout - Cottages, Kevin MacLeod*
