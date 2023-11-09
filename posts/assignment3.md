@@ -10,6 +10,6 @@ Armina Parvaresh Rizi works at EXP's Makerspace — a community resource open to
 In the video below, she shares more about the makerspace's possibilities and being an explorer.
 
 <video controls style="width:100%">
-    <source src="/posts/media/armina-interview.mp4" type="video/mp4">
-    <a href="/posts/media/armina-interview.mp4"> Download video </a>
+    <source src="https://media.githubusercontent.com/media/Anzhuo-W/treesfrog/main/posts/media/armina-interview.mp4" type="video/mp4">
+    <a href="https://media.githubusercontent.com/media/Anzhuo-W/treesfrog/main/posts/media/armina-interview.mp4"> Download video </a>
 </video>
