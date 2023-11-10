@@ -1,5 +1,5 @@
 ---
-title: Meet an EXPlorer
+title: Welcome to the EXP Makerspace
 time: November 9th, 2023
 author: Anzhuo Wang
 tags: post
