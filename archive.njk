@@ -11,7 +11,8 @@
     <main>
       <div class="page">
         <a href="/"><h2>Anzhuo's Blog</h2></a>
-        {% for post in collections.feature | reverse %}
+        <a href="/"><h4>< Featured post</h4></a>
+        {% for post in collections.post | reverse %}
           <div class="post">
             <h1>
               {{ post.data.title }}
@@ -22,7 +23,6 @@
             {{ post.content | safe }}
           </div>
         {% endfor %}
-        <a href="/archive"><h4>Previous posts ></h4></a>
       </div>
     </main>
   </body>
