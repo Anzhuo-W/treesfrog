@@ -3,6 +3,7 @@ title: Megaband
 time: December 5th, 2023
 author: Anzhuo Wang
 tags: [feature]
+layout: post.njk
 ---
 
 <video controls style="width:100%">

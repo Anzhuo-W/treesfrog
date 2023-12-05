@@ -1,0 +1,31 @@
+---
+title: Post
+time: January 1st, 1970
+---
+
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="/bundle.css">
+    <title>Anzhuo's Blog</title>
+  </head>
+  <body>
+    <main>
+      <div class="page">
+        <a href="/"><h2>Anzhuo's Blog</h2></a>
+        <div class="post">
+          <h1>
+            {{ title }}
+          </h1>
+          <h4>
+            {{ time }}
+          </h4>
+          {{ content | safe }}
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
