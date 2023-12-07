@@ -14,7 +14,7 @@
         {% for post in collections.feature | reverse %}
           <div class="post">
             <h1>
-              {{ post.data.title }}
+              <a href="/{{post.data.title | slugify}}">{{ post.data.title }}</a>
             </h1>
             <h4>
               {{ post.data.time }}
@@ -22,7 +22,7 @@
             {{ post.content | safe }}
           </div>
         {% endfor %}
-        <a href="/archive"><h4>Previous posts ></h4></a>
+        <a href="/archive"><h4>Previous posts >></h4></a>
       </div>
     </main>
   </body>

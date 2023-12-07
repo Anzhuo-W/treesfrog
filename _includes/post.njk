@@ -15,16 +15,22 @@ time: January 1st, 1970
   <body>
     <main>
       <div class="page">
-        <a href="/"><h2>Anzhuo's Blog</h2></a>
+        {# <a href="/"><h2>Anzhuo's Blog</h2></a> #}
         <div class="post">
           <h1>
             {{ title }}
           </h1>
-          <h4>
-            {{ time }}
-          </h4>
+          <div class="byline">
+            <b>
+              {{ author }}
+            </b>
+            <p>
+              {{ time }}
+            </p>
+          </div>
           {{ content | safe }}
         </div>
+        <a href="/"><h4><< To blog</a>
       </div>
     </main>
   </body>

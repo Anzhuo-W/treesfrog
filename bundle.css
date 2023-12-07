@@ -15,6 +15,10 @@ a, a:visited {
   line-height: 140%;
 }
 
+.page h1 {
+  line-height: normal;
+}
+
 .page img {
   max-width: 100%;
 }
@@ -27,4 +31,19 @@ a, a:visited {
     display: block;
     max-height: 500px;
     margin: auto;
+}
+
+.byline {
+  display: inline-flex;
+  align-items: center;
+  column-gap: 1em;
+  margin-bottom: 2em;
+}
+
+.byline p {
+  margin: 0;
+}
+
+.byline b {
+  font-weight: 550;
 }
