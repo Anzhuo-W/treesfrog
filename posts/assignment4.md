@@ -1,5 +1,5 @@
 ---
-title: Megaband
+title: For Megaband, the Northeastern Pep Band is Bigger Than Ever
 time: December 5th, 2023
 author: Anzhuo Wang
 tags: [feature]
@@ -7,8 +7,8 @@ layout: post.njk
 ---
 
 <video controls style="width:100%">
-    <source src="https://media.githubusercontent.com/media/Anzhuo-W/treesfrog/main/posts/media/megaband-draft.mp4" type="video/mp4">
-    <a href="https://media.githubusercontent.com/media/Anzhuo-W/treesfrog/main/posts/media/megaband-draft.mp4"> Download video </a>
+    <source src="https://media.githubusercontent.com/media/Anzhuo-W/treesfrog/main/posts/media/megaband.mp4" type="video/mp4">
+    <a href="https://media.githubusercontent.com/media/Anzhuo-W/treesfrog/main/posts/media/megaband.mp4"> Download video </a>
 </video>
 
 <!-- Intro
