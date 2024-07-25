@@ -1,5 +1,5 @@
 ---
-title: Scenes Around Boston
+title: Photos of Scenes Around Boston
 time: September 28th, 2023
 author: Anzhuo Wang
 tags: post

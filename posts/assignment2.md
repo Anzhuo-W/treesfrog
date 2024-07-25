@@ -1,5 +1,5 @@
 ---
-title: Interview with Taylor Haase
+title: "Q&A with Taylor Haase: Her Career in Sports Journalism"
 time: October 19th, 2023
 author: Anzhuo Wang
 tags: post
